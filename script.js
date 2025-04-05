@@ -1,5 +1,5 @@
 //Script Contact Form
-const scriptURL = 'https://script.google.com/macros/s/AKfycbyKhLTN5gFKiEf42T9WGgMJyqZ-tLYuVAvqmwBfSEu8HHDX_64Fk1i9aBiOoyfCUcfa/exec'
+const scriptURL = 'https://script.google.com/macros/s/AKfycbyAytoE-aKD38sRFriiMMGoEo86oHXPqOnRpfY32KxmOx4HfOt3L0fZEl5qnLj-1Uzj/exec'
 	const form = document.forms['website-contact-form']
 	const btnKirim = document.querySelector(".btn-kirim");
       	const btnLoading = document.querySelector(".btn-loading");
